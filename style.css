@@ -1,0 +1,24 @@
+body {
+  font-family: "Muli", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Muli", sans-serif;
+}
+
+.fab,
+.far {
+  font-size: 2.5em;
+  margin: 0 0.3em;
+}
+
+.whitelinks > a {
+  color: whitesmoke;
+}
+
+.whitelinks > a:hover {
+  color: deepskyblue;
+}
